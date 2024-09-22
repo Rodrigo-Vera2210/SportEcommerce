@@ -129,3 +129,7 @@ C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\Core.pdb
+C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
+C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\API\obj\Debug\net8.0\API.sourcelink.json

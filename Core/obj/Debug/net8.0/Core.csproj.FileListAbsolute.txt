@@ -9,3 +9,4 @@ C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Core\obj\Debug\ne
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Core\obj\Debug\net8.0\Core.sourcelink.json
