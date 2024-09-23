@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\donra\\.nuget\\packages\\": {}
+    "C:\\Users\\RodrigoVera\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\donra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\Core\\obj\\",
+      "projectPath": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\RodrigoVera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\donra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RodrigoVera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

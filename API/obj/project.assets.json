@@ -3161,19 +3161,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\donra\\.nuget\\packages\\": {}
+    "C:\\Users\\RodrigoVera\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\donra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\API\\obj\\",
+      "projectPath": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\RodrigoVera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\donra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RodrigoVera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3188,8 +3188,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\donra\\Documents\\Desarrollo Web\\ASP.NET\\SportEcommerce\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\RodrigoVera\\Documents\\Cursos\\SportEcommerce\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
