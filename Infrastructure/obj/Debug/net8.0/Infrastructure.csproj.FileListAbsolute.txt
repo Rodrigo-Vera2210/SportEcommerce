@@ -14,3 +14,19 @@ C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Infrastructure\ob
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
 C:\Users\donra\Documents\Desarrollo Web\ASP.NET\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\bin\Debug\net8.0\Core.dll
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\bin\Debug\net8.0\Core.pdb
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\RodrigoVera\Documents\Cursos\SportEcommerce\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
