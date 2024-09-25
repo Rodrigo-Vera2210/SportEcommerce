@@ -1,19 +1,15 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { IProduct } from '../../shared/models/product';
-import { NgFor } from '@angular/common';
+import { NgFor, NgIf } from '@angular/common';
 
 @Component({
   selector: 'app-product-item',
   standalone: true,
-  imports: [NgFor],
+  imports: [NgFor, NgIf],
   templateUrl: './product-item.component.html',
   styleUrl: './product-item.component.scss'
 })
-export class ProductItemComponent implements OnInit {
+export class ProductItemComponent{
   @Input() product!: IProduct;
-  
-  ngOnInit(): void {
-    throw new Error('Method not implemented.');
-  }
 
 }

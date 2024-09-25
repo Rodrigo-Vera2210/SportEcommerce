@@ -11,13 +11,24 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-
+var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 // Add services to the container.
 
 builder.Services.AddControllers();
 
 builder.Services.AddAutoMapper(typeof(MappingProfiles));
 builder.Services.AddDbContext<StoreContext>(x => x.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(MyAllowSpecificOrigins,
+                          policy =>
+                          {
+                              policy.AllowAnyOrigin()
+                                    .AllowAnyHeader()
+                                    .AllowAnyMethod();
+                          });
+});
 
 builder.Services.AddApplicationServices();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -34,6 +45,8 @@ app.UseMiddleware<ExceptionMiddleware>();
 
 app.UseStatusCodePagesWithReExecute("/errors/{0}");
 app.UseHttpsRedirection();
+
+app.UseCors(MyAllowSpecificOrigins);
 
 app.UseSwaggerDocumentation();
 
